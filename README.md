@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Web Development, Unreal Engine**
 
-- 📫 How to reach me Discord: **ZoliK#0632**
+- 📫 You can reach me at Discord: **ZoliK#0632**
 
 - 🤖 I'm currently working on **Discord bots**
 
